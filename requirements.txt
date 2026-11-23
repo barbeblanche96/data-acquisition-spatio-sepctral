@@ -1,0 +1,5 @@
+numpy
+opencv-python
+Pillow
+# The XIMEA Python API (xiapi) is installed with the XIMEA software package:
+# https://www.ximea.com/support/wiki/apis/Python
